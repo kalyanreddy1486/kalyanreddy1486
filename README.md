@@ -90,28 +90,6 @@ Tools: <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=whi
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=kalyanreddy1486&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=440" alt="stats"/>
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanreddy1486&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="top languages"/>
   </p>
-
-  <p align="center"><b>Contribution heatmap</b></p>
-
-  <p align="center">
-    <img src="https://ghchart.rshah.org/216e39/kalyanreddy1486" alt="contribution heatmap" width="100%"/>
-  </p>
-
-  <p align="center"><b>3D contribution graph</b></p>
-
-  <p align="center">
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3d contribution graph" width="100%"/>
-  </p>
-
-  <p align="center"><b>Snake eats the contributions</b></p>
-
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalyanreddy1486/kalyanreddy1486/output/github-snake-dark.svg"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalyanreddy1486/kalyanreddy1486/output/github-snake.svg"/>
-      <img alt="contribution snake" src="https://raw.githubusercontent.com/kalyanreddy1486/kalyanreddy1486/output/github-snake.svg"/>
-    </picture>
-  </p>
 </details>
 
 -----------------------------------------------------------
