@@ -160,8 +160,10 @@ I build production AI tools and full-stack systems — end-to-end, from model to
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanreddy1486&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="top languages"/>
 </p>
 
+<p align="center"><b>Contribution heatmap</b></p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyanreddy1486&bg_color=1a1b27&color=a9b1d6&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&radius=12" alt="activity graph"/>
+  <img src="https://ghchart.rshah.org/8b5cf6/kalyanreddy1486" alt="contribution heatmap" width="100%"/>
 </p>
 
 <p align="center">
