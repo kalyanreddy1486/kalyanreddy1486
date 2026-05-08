@@ -143,26 +143,6 @@ Tools: <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=whi
 
 -----------------------------------------------------------
 
-## `$ systemctl status currently-building`
-
-```
-● kalyan.service - AI/ML undergrad shipping production systems
-     Active: active (running) since semester 5
-       Now: HostelOS — multi-tenant SaaS, live for Indian hostel managers
-       Up:  Sign-Bridge ASL · Resume Analyzer · Revenue Pulse · Churn ML · Trading Bot
-   Goal:    Land an AI/ML or full-stack internship in 2026
-```
-
-| Layer | What I'm doing |
-|:------|:---------------|
-| **Models** | Fine-tuning transformers; classical ML pipelines for tabular work |
-| **Backend** | Production Postgres + RLS, Supabase edge functions, FastAPI services |
-| **Frontend** | Next.js 14 + TypeScript + Tailwind, polished mobile-friendly UI |
-| **Infra** | Vercel deploys, Sentry monitoring, GitHub Actions for CI |
-| **Practice** | Daily LeetCode + reading ML papers when I'm not shipping |
-
------------------------------------------------------------
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalyanreddy1486&style=flat-square&color=22c55e&label=Profile+views" alt="profile views"/>
 </p>
