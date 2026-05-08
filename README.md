@@ -5,11 +5,21 @@ $ whoami
 <h1 align="center">Hi there, I'm <a href="https://github.com/kalyanreddy1486">Kalyan</a> 👋</h1>
 
 <p align="center">
+  <a href="https://github.com/kalyanreddy1486">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=22c55e&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer+%C2%B7+Full-stack+Builder;Shipping+production+systems%2C+end-to-end;Currently+building+HostelOS+%E2%86%92+live;Open+to+AI%2FML+%26+Full-stack+internships" alt="typing"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/kalyan-reddy-kambala-9942092a4/">LinkedIn</a> -
   <a href="mailto:kalyanreddy895@gmail.com">Email</a> -
   <a href="https://www.instagram.com/_kalyan.kkr/">Instagram</a> -
   <a href="https://hostel-os-zeta.vercel.app/">HostelOS (live)</a> -
   <a href="https://github.com/kalyanreddy1486?tab=repositories">All repos</a>
+</p>
+
+<p align="center">
+  📍 Bangalore, India  &nbsp;·&nbsp;  🎓 JAIN University (AI &amp; ML)  &nbsp;·&nbsp;  🚀 Shipping in production  &nbsp;·&nbsp;  🤖 Full-stack AI builder
 </p>
 
 <p align="center">
@@ -83,7 +93,7 @@ Tools: <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=whi
   ➡️ [more on my repositories page...](https://github.com/kalyanreddy1486?tab=repositories)
 </details>
 
-<details>
+<details open>
   <summary><b>⚙️ GitHub analytics</b></summary>
   <br>
   <p align="center">
@@ -94,16 +104,25 @@ Tools: <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=whi
 
 -----------------------------------------------------------
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalyanreddy1486&style=flat-square&color=22c55e&label=Profile+views" alt="profile views"/>
-</p>
-
 <div align="center">
 
-### Let's build something together
+## 🤝 Let's connect
 
-<a href="mailto:kalyanreddy895@gmail.com"><b>kalyanreddy895@gmail.com</b></a>  ·  <a href="https://www.linkedin.com/in/kalyan-reddy-kambala-9942092a4/"><b>LinkedIn</b></a>
+<a href="mailto:kalyanreddy895@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email me"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kalyan-reddy-kambala-9942092a4/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://hostel-os-zeta.vercel.app/">
+  <img src="https://img.shields.io/badge/See%20my%20live%20app-3FCF8E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="HostelOS Live"/></a>
+
+<br><br>
 
 <sub>Care about the model. Care about the deploy. Ship the whole thing.</sub>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kalyanreddy1486&style=flat-square&color=22c55e&label=Profile+views" alt="profile views"/>
 
 </div>
