@@ -163,7 +163,7 @@ I build production AI tools and full-stack systems — end-to-end, from model to
 <p align="center"><b>Contribution heatmap</b></p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00b962/kalyanreddy1486" alt="contribution heatmap" width="100%"/>
+  <img src="https://ghchart.rshah.org/216e39/kalyanreddy1486" alt="contribution heatmap" width="100%"/>
 </p>
 
 <p align="center">
