@@ -31,7 +31,13 @@
 
 I build production AI tools and full-stack systems — end-to-end, from model to deploy. Currently undergraduate at **JAIN University**, focused on shipping real software to real users.
 
-> **Now building:** [HostelOS](https://hostel-os-zeta.vercel.app/) — a multi-tenant SaaS for Indian hostel managers handling 100–1,000 residents per property. Live in production.
+### What I'm up to
+
+- 🔭 &nbsp;Building **[HostelOS](https://hostel-os-zeta.vercel.app/)** — a multi-tenant SaaS for Indian hostel managers, live in production
+- 🌱 &nbsp;Going deeper on **PyTorch, transformer fine-tuning, and ML infra**
+- 💬 &nbsp;Ask me about **shipping ML to production**, multi-tenant Postgres, or building with Supabase
+- ⚡ &nbsp;Off-keyboard: I travel solo to clear my head
+- 📫 &nbsp;Reach me at **kalyanreddy895@gmail.com**
 
 <br/>
 
@@ -165,6 +171,14 @@ I build production AI tools and full-stack systems — end-to-end, from model to
 <p align="center">
   <img src="https://ghchart.rshah.org/216e39/kalyanreddy1486" alt="contribution heatmap" width="100%"/>
 </p>
+
+<p align="center"><b>3D contribution graph</b></p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3d contribution graph" width="100%"/>
+</p>
+
+<p align="center"><b>Snake eats the contributions</b></p>
 
 <p align="center">
   <picture>
