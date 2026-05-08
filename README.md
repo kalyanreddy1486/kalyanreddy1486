@@ -2,7 +2,11 @@
 
 # Kalyan Reddy Kambala
 
-### AI / ML Engineer · Full-stack Builder · JAIN University
+<a href="https://github.com/kalyanreddy1486">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1500&color=8B5CF6&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer+%C2%B7+Full-stack+Builder;I+ship+production+systems%2C+end-to-end;Currently+building+HostelOS+%E2%86%92+live;Open+to+AI%2FML+%26+Full-stack+internships" alt="typing"/>
+</a>
+
+<br/>
 
 <a href="mailto:kalyanreddy895@gmail.com">
   <img src="https://img.shields.io/badge/Open%20to%20AI%2FML%20%26%20Full--stack%20internships-22c55e?style=for-the-badge&labelColor=0a0a0a" alt="Open to internships"/>
@@ -154,6 +158,18 @@ I build production AI tools and full-stack systems — end-to-end, from model to
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=kalyanreddy1486&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=440" alt="stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanreddy1486&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyanreddy1486&bg_color=1a1b27&color=a9b1d6&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&radius=12" alt="activity graph"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalyanreddy1486/kalyanreddy1486/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalyanreddy1486/kalyanreddy1486/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/kalyanreddy1486/kalyanreddy1486/output/github-snake.svg"/>
+  </picture>
 </p>
 
 <br/>
